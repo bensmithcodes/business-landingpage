@@ -52,14 +52,14 @@
 }
 
 .about .card p {
-    color: #ccc;
+    color: rgb(255, 255, 255);
 }
 
 .about .icon-container {
     background-color: var(--primary-blue);
     border-radius: 50px;
     display: inline-flex;
-    padding: 1.3rem;
+    padding: 1.6rem;
 }
 
 .about .icon {

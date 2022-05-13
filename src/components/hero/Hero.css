@@ -33,7 +33,7 @@
 
 }
 .hero .btn:hover{
-    background-color: aqua;
+    background-color: rgb(131, 208, 208);
     font-size: 33px;
     color: white;
     transition: 1s;
