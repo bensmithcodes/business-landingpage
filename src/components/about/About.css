@@ -18,7 +18,7 @@
 .about .container > p {
     margin: 1rem 0 3rem 0;
     font-size: 1.2rem;
-    color: #f8f8f8;
+    color: rgb(131, 208, 208);
 }
 
 .about .card-container {

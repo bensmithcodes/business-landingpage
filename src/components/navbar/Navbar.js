@@ -29,7 +29,7 @@ const Navbar =()=>{
                 <a href='/'>About</a>
             </li>
             <li className='nav-item'>
-                <a className='btn' href="/">Use Defi</a>
+                <a className='btn' href="/">Use PlanPal</a>
             </li>
 
 

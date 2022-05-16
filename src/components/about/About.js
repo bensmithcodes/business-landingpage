@@ -9,7 +9,7 @@ const About =()=>{
     return(
     <div className="about">
         <div className="container">
-            <h2> A growing Protocl Ecosystems</h2>
+            <h2> Team of professionals, making important decisions</h2>
             <p>The defi protocol system empowers developers, providers.</p>
             <div className=" card-container" >
             <div className="card">
@@ -25,7 +25,7 @@ const About =()=>{
                         <AboutCard  img= '../../assets/subscribe.jpg'  heading='Secure off-chain computation' text='Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers.' />
                     </div>
                 </div>
-                <a href="/" className="btn">Use Defi</a>
+                <a href="/" className="btn">Use PlanPal</a>
             </div>
         </div>
     )
